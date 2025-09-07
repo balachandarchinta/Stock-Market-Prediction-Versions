@@ -1,2 +1,2 @@
 Prediction algorithms of my thoughts on how much I have learned in stock market using our beloved friend Mr. Python. There were so many libraries we didn't know much about. I will use our LLM cousins too.
-We have used general LSTM technique and forecasted for 7 or 15 sessions. But can we say it is accurate. We don't know about it yet. 
+We have used general LSTM technique and forecasted for 7 or 15 sessions. But can we say it is accurate. We don't know about it yet. Check out my first stock prediction code StockForecast_v1.ipynb
